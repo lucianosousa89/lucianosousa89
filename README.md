@@ -55,11 +55,11 @@
 ## 📫 Contact
 
 <div align="left">
-  <a href="mailto:YOUR_EMAIL">
+<a href="mailto:lucianobarbosa1415@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/lucianosousa89">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
