@@ -6,13 +6,11 @@
   </a>
 </p>
 
-## 👋 About Me
-
-🎓 Currently studying Information Systems at UFPI.
-
-🔭 I'm interested in Computer Vision and Artificial Intelligence.
-
-🧪 I develop research and projects applying Computer Vision techniques to real-world problems.
+<p align="center">
+  <strong>🎓 Currently studying Information Systems at UFPI.</strong><br>
+  <strong>🔭 Interested in Computer Vision and Artificial Intelligence.</strong><br>
+  <strong>🧪 Developing research and projects applying Computer Vision to real-world problems.</strong>
+</p>
 
 ---
 
@@ -57,15 +55,17 @@
 ## 📫 Contact
 
 <div align="left">
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://linkedin.com/in/SEU_USUARIO">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/lucianosousa89/lucianosousa89/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucianosousa89/lucianosousa89/snake-output/snake.svg" alt="Snake animation" />
+</p>
