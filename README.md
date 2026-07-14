@@ -1,31 +1,71 @@
-<!-- Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E92D2&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E92D2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=6E92D2&vCenter=true&center=true&width=1000&lines=Luciano+Sousa)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=6E92D2&center=true&vCenter=true&width=1000&lines=Luciano+Sousa" alt="Typing SVG" />
+  </a>
+</p>
 
-> **🎓 Estudante do 5º período de Sistemas de Informação na UFPI – CSHNB**
+## 👋 About Me
 
-## 💻 Tech Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-0F4B8F?style=for-the-badge&logo=prolog&logoColor=white)
+🎓 Currently studying Information Systems at UFPI.
 
+🔭 I'm interested in Computer Vision and Artificial Intelligence.
 
+🧪 I develop research and projects applying Computer Vision techniques to real-world problems.
 
-## ⌛ Wakatime Stats
-<a href="https://wakatime.com/@018edf65-cbd1-4c86-b6d5-3b9824f73ae1"><img src="https://wakatime.com/badge/user/018edf65-cbd1-4c86-b6d5-3b9824f73ae1.svg" alt="Total time coded since Apr 14 2024" /></a>
+---
 
-<!--
-**Luciano899/Luciano899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Languages
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucianosousa89/lucianosousa89/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technologies
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
+</div>
+
+---
+
+## ⌛ WakaTime
+
+<a href="https://wakatime.com/@018edf65-cbd1-4c86-b6d5-3b9824f73ae1">
+  <img src="https://wakatime.com/badge/user/018edf65-cbd1-4c86-b6d5-3b9824f73ae1.svg" alt="WakaTime Badge"/>
+</a>
+
+---
+
+## 📫 Contact
+
+<div align="left">
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/lucianosousa89/lucianosousa89/snake-output/snake.svg" alt="Snake animation" />
