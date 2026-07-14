@@ -56,13 +56,13 @@
 
 <div align="left">
 <a href="mailto:lucianobarbosa1415@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-  <a href="https://linkedin.com/in/lucianosousa89">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/lucianosousa89/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 
 ---
 
